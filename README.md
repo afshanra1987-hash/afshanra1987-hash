@@ -65,7 +65,7 @@ https://github.com/afshanra1987-hash/shopqa-sql-project
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/afshanra1987-hash
-- LinkedIn: **(Add your LinkedIn profile URL here)**
+- LinkedIn: https://www.linkedin.com/in/afshan-rajabi-10b629348
 
 ---
 
